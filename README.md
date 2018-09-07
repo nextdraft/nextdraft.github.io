@@ -1,4 +1,4 @@
-![]( invertocat.png =15x15 )
+<img src="invertocat.png" width=15 )
 
 # [nextdraft.github.io]( ./ )
 
