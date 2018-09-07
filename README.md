@@ -1,4 +1,6 @@
-# [![octocat]( https://status.github.com/images/invertocat.png =15x15 )]( https://github.com/nextdraft/nextdraft.github.io )  [nextdraft.github.io]( ./ )
+[![octocat]( https://status.github.com/images/invertocat.png )]( https://github.com/nextdraft/nextdraft.github.io )
+
+# [nextdraft.github.io]( ./ )
 
 ### [https://nextdraft.com/]( https://nextdraft.com/ )
 
@@ -26,4 +28,4 @@
 ***
 
 
-# <center title="hello!" ><img src=head-large.png height=42></center>
+# <img src=head-large.png height=42 >
