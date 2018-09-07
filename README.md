@@ -1,4 +1,4 @@
-# [nextdraft.github.io]( ./README.md )
+# [nextdraft.github.io]( ./ )
 
 ### [https://nextdraft.com/]( https://nextdraft.com/ )
 
@@ -26,4 +26,4 @@
 ***
 
 
-# <center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=text-decoration:none; ><img src=head-large.png height=42></a></center>
+# <center title="hello!" ><img src=head-large.png height=42></center>
