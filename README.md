@@ -1,6 +1,6 @@
 # [nextdraft.github.io]( ./ )
 
-[![]( invertocat.png )]( https://github.com/nextdraft/nextdraft.github.io )
+[![]( invertocat.png =20x20 )]( https://github.com/nextdraft/nextdraft.github.io )
 
 ### [https://nextdraft.com/]( https://nextdraft.com/ )
 
@@ -20,7 +20,7 @@
 ***
 
 
-[![he is the alorithm]( daujbbwumaatwhd.jpg )]( http://nextdraft.com/ "Got algorithm?" )
+[![he is the algorithm]( daujbbwumaatwhd.jpg )]( http://nextdraft.com/ "Got algorithm?" )
 
 ![]( nextdraft.jpg )
 
