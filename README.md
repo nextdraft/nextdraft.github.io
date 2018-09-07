@@ -1,4 +1,4 @@
-![octocat]( https://status.github.com/images/invertocat.png )
+![](https://status.github.com/images/invertocat.png)
 
 # [nextdraft.github.io]( ./ )
 
