@@ -1,4 +1,4 @@
-<img src="invertocat.png" width=15 )
+<img src="invertocat.png" width=15 >
 
 # [nextdraft.github.io]( ./ )
 
