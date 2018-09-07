@@ -1,6 +1,6 @@
-![]( invertocat.png )
-
 # [nextdraft.github.io]( ./ )
+
+[![]( invertocat.png )]( https://github.com/nextdraft/nextdraft.github.io )
 
 ### [https://nextdraft.com/]( https://nextdraft.com/ )
 
