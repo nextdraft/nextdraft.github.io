@@ -1,4 +1,4 @@
-# [nextdraft.github.io]( ./ ) 
+# [nextdraft.github.io]( ./README.md ) 
 
 [<img src="invertocat.png" width="30" >]( https://github.com/nextdraft/nextdraft.github.io "He he, is the algorithm is he/her/here?" ) 
 
